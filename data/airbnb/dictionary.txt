@@ -1,0 +1,34 @@
+Data Dictionary
+
+Listings
+--------
+Contains airbnb property information from 5 English cities scraped.
+Obtained from:
+http://insideairbnb.com/get-the-data.html
+
+Neighbourhoods
+-------------
+Contains mappings of neighbourhood names used in listings to wider neighbourhood groups if they exist. The neighbourhoods correspond to either district (such as in London, boroughs), or wards (such as areas of a city in Manchester).
+
+Supp
+----
+Supplementary data for further exploration
+----
+
+-Ward_to_Registration_District_to_Local_Authority_District_(December_2019)_Lookup_in_England_and_Wales.csv
+
+Obtained from: 
+https://geoportal.statistics.gov.uk/datasets/ward-to-registration-district-to-local-authority-district-december-2019-lookup-in-england-and-wales
+
+
+- Average-prices-20218-09.csv
+
+Obtained from:
+https://www.gov.uk/government/statistical-data-sets/uk-house-price-index-data-downloads-september-2018?utm_medium=GOV.UK&utm_source=england&utm_campaign=section8&utm_term=9.30_14_11_18&utm_content=download_data
+
+- netannualincome20181.csv
+- netannualincomeafterhousingcosts2018.csv
+
+
+Obtained from:
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/smallareaincomeestimatesformiddlelayersuperoutputareasenglandandwales

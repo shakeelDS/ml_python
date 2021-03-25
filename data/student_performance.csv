@@ -1,0 +1,1001 @@
+gender,parent_education,lunch,preparation_course,math_score,writing_score
+female,bachelor's degree,,none,72,74
+female,some college,False,completed,69,88
+female,master's degree,False,none,90,93
+male,associate's degree,True,none,47,44
+male,some college,False,none,76,75
+female,associate's degree,False,none,71,78
+female,some college,False,completed,88,92
+male,some college,True,none,40,39
+male,high school,True,completed,64,67
+female,high school,True,none,38,50
+male,associate's degree,False,,58,52
+male,associate's degree,False,,40,43
+female,high school,False,none,65,73
+male,some college,,,78,70
+female,master's degree,False,,50,58
+female,some high school,False,none,69,78
+male,high school,False,none,88,86
+female,some high school,True,,18,28
+male,master's degree,True,completed,46,46
+female,associate's degree,,none,54,61
+male,high school,False,none,66,63
+female,some college,True,,65,70
+male,some college,False,none,44,53
+female,some high school,,none,69,73
+male,bachelor's degree,True,,74,80
+male,master's degree,True,none,73,72
+male,some college,False,none,69,55
+female,bachelor's degree,,none,67,75
+male,high school,False,none,70,65
+female,master's degree,False,none,62,75
+female,some college,False,none,69,74
+female,some college,False,none,63,61
+female,master's degree,True,none,56,65
+male,some college,False,none,40,38
+male,some college,False,none,97,82
+male,associate's degree,False,completed,81,79
+female,associate's degree,False,none,74,83
+female,some high school,True,,50,59
+female,associate's degree,True,completed,75,88
+male,associate's degree,True,none,57,57
+male,associate's degree,True,,55,54
+female,associate's degree,False,none,58,68
+female,associate's degree,False,,53,65
+male,some college,True,completed,59,66
+female,associate's degree,True,,50,54
+male,associate's degree,False,,65,57
+female,associate's degree,False,completed,55,62
+female,high school,False,none,66,76
+female,associate's degree,True,completed,57,76
+male,high school,False,completed,82,82
+male,some college,,,53,48
+male,associate's degree,True,completed,77,68
+male,some college,False,none,53,42
+male,high school,False,none,88,75
+female,some high school,True,completed,71,87
+female,high school,True,,33,43
+female,associate's degree,False,completed,82,86
+male,associate's degree,False,none,52,49
+male,some college,False,completed,58,58
+female,some high school,True,none,0,10
+male,bachelor's degree,True,completed,79,72
+male,some high school,True,none,39,34
+male,associate's degree,True,none,62,55
+female,associate's degree,False,,69,71
+female,some high school,False,none,59,59
+male,some high school,False,,67,61
+male,some high school,True,,45,37
+female,some college,False,none,60,74
+male,associate's degree,True,none,61,56
+female,associate's degree,False,none,39,57
+female,some college,True,completed,58,73
+male,some college,,completed,63,63
+female,associate's degree,True,none,41,48
+male,some high school,True,none,61,56
+male,some high school,False,none,49,41
+male,associate's degree,,none,44,38
+male,some high school,False,none,30,22
+male,bachelor's degree,False,,80,81
+female,some high school,False,completed,61,72
+female,master's degree,False,,62,68
+female,associate's degree,False,none,47,50
+male,high school,True,none,49,45
+male,some college,True,completed,50,54
+male,associate's degree,False,none,72,63
+male,high school,True,none,42,34
+female,some college,False,none,73,82
+female,some college,True,,76,88
+female,associate's degree,False,none,71,74
+female,some college,False,none,58,67
+female,some high school,False,none,73,82
+female,bachelor's degree,False,,65,74
+male,high school,True,none,27,36
+male,high school,False,none,71,71
+male,associate's degree,True,completed,43,50
+female,some college,False,,79,92
+male,associate's degree,True,completed,78,82
+male,some high school,False,completed,65,62
+female,some college,False,completed,63,70
+female,some college,True,none,58,62
+female,bachelor's degree,False,none,65,62
+male,some college,,none,79,67
+male,bachelor's degree,,completed,68,74
+female,associate's degree,False,none,85,89
+male,high school,False,,60,47
+male,some college,False,completed,98,90
+female,some college,False,none,58,72
+female,master's degree,False,none,87,100
+male,associate's degree,False,completed,66,64
+female,associate's degree,True,none,52,70
+female,some high school,False,none,70,72
+female,associate's degree,True,completed,77,98
+male,high school,False,none,62,49
+male,associate's degree,False,none,54,47
+female,some college,False,none,51,54
+female,bachelor's degree,False,completed,99,100
+male,high school,False,,84,74
+female,bachelor's degree,True,none,75,82
+female,bachelor's degree,False,,78,79
+female,some high school,,,51,61
+female,some college,False,none,55,65
+female,bachelor's degree,False,completed,79,89
+male,associate's degree,False,completed,91,92
+female,some college,False,completed,88,93
+male,high school,True,none,63,56
+male,some college,False,none,83,73
+female,high school,False,none,87,86
+male,some high school,False,none,72,67
+male,some college,,completed,65,74
+male,master's degree,False,none,82,74
+female,bachelor's degree,False,none,51,51
+male,master's degree,False,none,89,82
+male,some high school,True,completed,53,40
+male,some college,True,completed,87,70
+female,some college,False,completed,75,84
+male,bachelor's degree,True,completed,74,75
+male,bachelor's degree,False,none,58,48
+male,some high school,False,,51,41
+male,high school,False,,70,56
+female,associate's degree,,none,59,67
+male,some college,False,completed,71,69
+female,some high school,False,none,76,71
+female,some college,True,none,59,64
+female,some college,True,,42,54
+male,high school,False,,57,47
+male,some college,False,,88,78
+female,some college,True,none,22,33
+male,some high school,False,none,88,75
+male,associate's degree,True,none,73,66
+female,bachelor's degree,False,completed,68,81
+male,associate's degree,True,,100,93
+male,some high school,,completed,62,69
+male,bachelor's degree,False,none,77,68
+female,associate's degree,,completed,59,66
+male,bachelor's degree,False,none,54,47
+male,some high school,False,none,62,61
+female,some college,False,completed,70,88
+female,high school,True,completed,66,78
+male,some college,True,none,60,60
+female,associate's degree,False,completed,61,87
+male,associate's degree,True,none,66,64
+male,associate's degree,True,completed,82,74
+female,some college,,completed,75,85
+male,master's degree,True,none,49,52
+male,high school,False,none,52,49
+female,master's degree,False,none,81,91
+female,bachelor's degree,False,completed,96,100
+male,high school,,,53,51
+female,master's degree,True,,58,78
+female,high school,False,completed,68,78
+female,some college,,completed,67,70
+male,high school,False,completed,72,74
+male,some high school,False,none,94,78
+female,some college,False,none,79,81
+female,associate's degree,False,none,63,70
+female,bachelor's degree,True,completed,43,54
+female,master's degree,False,completed,81,87
+female,high school,True,,46,58
+female,associate's degree,False,completed,71,77
+female,master's degree,True,,52,62
+female,some high school,False,completed,97,100
+male,master's degree,True,completed,62,75
+female,some college,True,none,46,66
+female,high school,False,,50,47
+female,associate's degree,False,none,65,70
+male,some high school,True,completed,45,49
+male,associate's degree,True,completed,65,65
+male,high school,False,none,80,65
+male,some high school,False,completed,62,68
+male,some high school,True,none,48,45
+female,bachelor's degree,False,,77,87
+female,associate's degree,False,none,66,69
+male,some college,False,completed,76,79
+female,some high school,False,none,62,66
+male,some college,False,,77,62
+female,master's degree,False,completed,69,85
+male,associate's degree,,none,61,52
+male,some high school,True,completed,59,65
+male,high school,True,none,55,51
+female,some college,True,none,45,55
+female,bachelor's degree,True,,78,76
+female,associate's degree,,completed,67,86
+female,some college,True,none,65,77
+male,associate's degree,False,none,69,69
+female,associate's degree,False,none,57,68
+male,some college,False,,59,42
+male,some high school,False,completed,74,78
+male,bachelor's degree,False,none,82,62
+male,high school,False,completed,81,76
+female,some college,True,none,74,76
+female,some college,True,none,58,66
+male,some high school,True,completed,80,79
+male,some college,True,none,35,27
+female,high school,True,none,42,60
+male,associate's degree,True,completed,60,56
+male,high school,False,completed,87,81
+male,some high school,False,completed,84,75
+female,associate's degree,True,completed,83,88
+female,high school,True,,34,39
+male,high school,True,none,66,70
+male,some high school,False,,61,56
+female,high school,,completed,56,74
+male,associate's degree,False,none,87,73
+female,some high school,True,none,55,62
+male,some high school,False,none,86,75
+female,associate's degree,False,,52,73
+female,master's degree,True,none,45,54
+female,some college,,none,72,71
+male,high school,False,none,57,54
+male,some high school,True,none,68,64
+female,some college,False,completed,88,94
+male,some college,,,76,66
+male,associate's degree,False,none,46,42
+female,bachelor's degree,False,,67,83
+male,some high school,False,none,92,78
+male,bachelor's degree,False,completed,83,84
+male,associate's degree,False,,80,77
+male,bachelor's degree,True,none,63,67
+female,some high school,False,completed,64,74
+male,some college,,none,54,51
+male,associate's degree,,,84,80
+male,high school,True,completed,73,66
+female,bachelor's degree,False,,80,83
+female,high school,False,none,56,55
+male,some college,False,none,59,43
+male,some high school,False,none,75,69
+male,associate's degree,False,none,85,71
+male,associate's degree,False,,89,74
+female,high school,False,,58,68
+female,high school,False,none,65,62
+male,high school,False,none,68,53
+male,some high school,False,completed,47,49
+female,some college,True,none,71,83
+female,some high school,,,60,70
+male,master's degree,,none,80,72
+male,high school,False,none,54,52
+female,some college,,none,62,70
+female,associate's degree,True,none,64,68
+male,associate's degree,False,completed,78,77
+female,some college,False,,70,78
+female,master's degree,True,,65,81
+female,some high school,,completed,64,77
+male,some college,False,completed,79,78
+female,some high school,True,,44,51
+female,high school,False,none,99,90
+male,high school,False,none,76,68
+male,some high school,True,none,59,41
+female,bachelor's degree,False,,63,81
+female,high school,False,none,69,77
+female,associate's degree,False,completed,88,95
+female,some college,,none,71,70
+male,bachelor's degree,False,none,69,61
+male,some college,False,none,58,42
+female,associate's degree,True,none,47,58
+female,some college,False,none,65,71
+male,some college,False,completed,88,76
+male,bachelor's degree,False,,83,73
+female,some high school,False,completed,85,93
+female,high school,False,completed,59,75
+female,some high school,,none,65,80
+male,bachelor's degree,True,none,73,57
+male,high school,False,none,53,42
+male,high school,False,none,45,46
+female,bachelor's degree,True,none,73,84
+female,some college,True,completed,70,78
+female,some high school,False,,37,46
+male,associate's degree,False,,81,82
+male,associate's degree,,,97,88
+female,some high school,False,none,67,82
+male,bachelor's degree,True,,88,76
+male,some high school,False,completed,77,77
+male,associate's degree,False,,76,68
+male,some high school,False,none,86,70
+male,some high school,False,completed,63,57
+female,bachelor's degree,False,none,65,75
+male,high school,True,completed,78,80
+male,associate's degree,True,none,67,60
+male,some high school,False,completed,46,43
+male,associate's degree,False,completed,71,68
+male,high school,True,completed,40,50
+male,associate's degree,True,none,90,75
+male,some college,True,completed,81,81
+male,some high school,True,none,56,52
+female,associate's degree,False,completed,67,81
+male,associate's degree,,,80,64
+female,associate's degree,False,completed,74,83
+male,some college,False,none,69,69
+male,some college,False,completed,99,81
+male,some high school,,none,51,44
+female,associate's degree,,,53,67
+female,high school,True,none,49,52
+female,associate's degree,False,none,73,80
+male,bachelor's degree,False,none,66,57
+male,bachelor's degree,False,completed,67,68
+female,associate's degree,True,completed,68,69
+female,bachelor's degree,,completed,59,75
+male,high school,False,none,71,65
+female,master's degree,False,completed,77,91
+male,associate's degree,False,none,83,78
+male,bachelor's degree,False,none,63,69
+female,associate's degree,True,none,56,63
+female,high school,True,completed,67,84
+female,high school,False,none,75,79
+female,some college,False,none,71,80
+female,some high school,True,none,43,53
+female,high school,True,none,41,43
+female,some college,False,none,82,94
+male,some college,False,none,61,62
+male,some college,,none,28,19
+male,associate's degree,False,,82,77
+female,some high school,False,,41,51
+male,high school,,none,71,61
+male,associate's degree,False,none,47,35
+male,associate's degree,False,completed,62,53
+male,associate's degree,,none,90,81
+female,bachelor's degree,False,none,83,95
+female,some college,True,,61,66
+male,some high school,False,completed,76,69
+male,associate's degree,False,none,49,43
+female,some high school,,none,24,27
+female,some high school,True,completed,35,60
+male,high school,True,none,58,52
+female,high school,False,none,61,63
+female,high school,,completed,69,74
+male,associate's degree,False,completed,67,67
+male,some college,False,,79,67
+female,high school,False,none,72,75
+male,some college,False,,62,57
+female,bachelor's degree,False,completed,77,95
+male,high school,True,,75,66
+male,associate's degree,,none,87,76
+female,bachelor's degree,False,,52,69
+male,some college,False,none,66,52
+female,some college,False,completed,63,80
+female,associate's degree,False,none,46,57
+female,some college,,none,59,70
+female,bachelor's degree,False,none,61,70
+male,associate's degree,False,none,63,61
+female,some college,True,completed,42,69
+male,some college,True,none,59,61
+female,some college,False,none,80,89
+female,high school,False,none,58,59
+male,some high school,False,completed,85,78
+female,some college,False,none,52,58
+female,some high school,True,none,27,32
+male,some college,,,59,58
+male,bachelor's degree,True,completed,49,60
+male,high school,False,completed,69,53
+male,bachelor's degree,True,,61,61
+female,some high school,True,,44,58
+female,some high school,False,none,73,85
+male,some college,False,,84,71
+female,some college,True,completed,45,70
+male,some high school,,none,74,72
+female,some college,False,,82,96
+female,bachelor's degree,False,none,59,73
+male,associate's degree,True,none,46,41
+female,some high school,False,none,80,82
+female,master's degree,True,completed,85,100
+female,some high school,False,none,71,77
+male,bachelor's degree,False,none,66,62
+female,associate's degree,False,none,80,83
+male,associate's degree,False,completed,87,95
+male,master's degree,True,none,79,71
+female,some high school,True,none,38,45
+female,some high school,True,none,38,43
+female,some college,,none,67,75
+female,bachelor's degree,False,none,64,70
+female,associate's degree,True,none,57,67
+female,high school,False,none,62,64
+male,master's degree,False,none,73,75
+male,some high school,True,completed,73,59
+female,some college,False,none,77,77
+male,some college,False,none,76,67
+male,associate's degree,,completed,57,56
+female,some high school,False,completed,65,77
+male,high school,True,none,48,41
+female,high school,True,none,50,63
+female,associate's degree,False,none,85,95
+male,some high school,False,none,74,57
+male,some high school,False,none,60,54
+female,some high school,False,completed,59,67
+male,some college,False,none,53,43
+female,some college,True,none,49,55
+female,high school,False,,88,100
+female,high school,False,none,54,62
+female,some high school,False,none,63,68
+male,associate's degree,False,completed,65,63
+female,associate's degree,False,none,82,77
+female,high school,True,completed,52,56
+male,associate's degree,False,completed,87,85
+female,master's degree,False,completed,70,74
+male,some college,False,completed,84,78
+male,associate's degree,False,none,71,60
+male,some high school,False,completed,63,67
+female,bachelor's degree,True,completed,51,79
+male,high school,False,none,84,69
+male,bachelor's degree,False,,71,68
+male,associate's degree,False,,74,67
+male,some college,False,none,68,62
+male,high school,,completed,57,54
+female,associate's degree,True,completed,82,93
+female,high school,False,completed,57,64
+female,master's degree,True,completed,47,67
+female,some high school,,completed,59,80
+male,some college,True,,41,34
+female,some college,True,none,62,62
+male,bachelor's degree,False,none,86,86
+male,some high school,True,none,69,65
+male,some high school,True,none,65,53
+male,some high school,True,none,68,54
+male,associate's degree,True,none,64,59
+female,high school,,none,61,70
+male,high school,False,none,61,55
+female,some high school,True,none,47,50
+male,some high school,False,none,73,66
+male,some college,True,completed,50,53
+male,associate's degree,False,none,75,64
+male,associate's degree,True,none,75,73
+male,high school,False,,70,51
+male,some high school,False,completed,89,82
+female,some college,False,completed,67,79
+female,high school,False,none,78,80
+female,some high school,True,none,59,69
+female,associate's degree,,none,73,76
+male,some high school,True,none,79,73
+female,some high school,False,completed,67,77
+male,some college,True,,69,60
+male,high school,False,,86,80
+male,high school,False,,47,42
+male,associate's degree,False,,81,72
+female,some college,True,completed,64,85
+female,some college,False,none,100,97
+female,associate's degree,True,none,65,74
+male,some college,True,none,65,49
+female,associate's degree,True,none,53,62
+male,bachelor's degree,True,none,37,47
+female,bachelor's degree,False,,79,89
+male,associate's degree,True,none,53,48
+female,bachelor's degree,False,none,100,100
+male,high school,False,completed,72,68
+male,bachelor's degree,True,none,53,55
+male,some college,True,none,54,45
+female,some college,False,none,71,76
+female,some college,True,none,77,91
+male,bachelor's degree,False,completed,75,62
+female,some college,False,none,84,91
+female,associate's degree,True,,26,38
+male,high school,True,completed,72,65
+female,high school,True,,77,85
+male,some college,False,none,91,76
+female,associate's degree,False,completed,83,90
+female,high school,False,none,63,74
+female,associate's degree,False,completed,68,84
+female,some high school,False,none,59,61
+female,associate's degree,False,completed,90,91
+female,bachelor's degree,,completed,71,83
+male,bachelor's degree,False,completed,76,66
+male,associate's degree,False,,80,72
+female,master's degree,False,none,55,70
+male,associate's degree,False,none,76,67
+male,high school,False,completed,73,68
+female,associate's degree,True,none,52,56
+male,some college,True,none,68,61
+male,high school,False,none,59,46
+female,associate's degree,False,,49,54
+male,high school,,none,70,71
+male,some college,True,none,61,56
+female,associate's degree,True,none,60,74
+male,some high school,False,,64,57
+male,associate's degree,True,,79,82
+female,associate's degree,True,none,65,76
+female,associate's degree,,none,64,70
+female,some college,False,none,83,90
+female,bachelor's degree,False,none,81,90
+female,high school,False,none,54,68
+male,high school,False,completed,68,66
+female,some college,False,none,54,52
+female,some college,True,completed,59,76
+female,some high school,False,none,66,68
+male,some college,False,none,76,72
+female,master's degree,False,none,74,82
+female,associate's degree,False,completed,94,92
+male,some college,True,,63,54
+female,associate's degree,False,,95,92
+female,master's degree,True,none,40,54
+female,some high school,False,,82,80
+male,high school,False,,68,66
+male,bachelor's degree,True,none,55,54
+male,master's degree,False,,79,77
+female,bachelor's degree,False,,86,87
+male,some college,False,none,76,73
+male,some high school,False,none,64,43
+male,some high school,True,,62,52
+female,some high school,False,completed,54,62
+female,master's degree,True,completed,77,94
+female,some high school,False,,76,85
+female,some college,False,none,74,84
+female,some college,False,completed,66,73
+female,some high school,False,completed,66,78
+female,high school,True,completed,67,79
+male,some college,False,none,71,52
+female,associate's degree,False,none,91,84
+male,bachelor's degree,False,,69,57
+male,master's degree,True,none,54,50
+male,high school,,completed,53,49
+male,some college,False,none,68,59
+male,some high school,True,completed,56,60
+female,high school,True,none,36,43
+female,bachelor's degree,True,none,29,47
+female,associate's degree,,none,62,70
+female,associate's degree,,,68,73
+female,some high school,False,none,47,53
+male,associate's degree,False,completed,62,58
+female,associate's degree,False,,79,94
+male,high school,False,completed,73,68
+female,bachelor's degree,,completed,66,83
+male,associate's degree,False,completed,51,58
+female,high school,False,none,51,62
+male,bachelor's degree,False,completed,85,71
+male,associate's degree,False,completed,97,86
+male,high school,False,completed,75,68
+male,associate's degree,True,completed,79,80
+female,associate's degree,False,,81,79
+female,associate's degree,False,none,82,89
+female,master's degree,False,none,64,66
+male,some high school,True,completed,78,80
+female,some high school,False,,92,97
+male,high school,False,completed,72,64
+female,high school,True,,62,64
+male,master's degree,False,none,79,69
+male,some high school,True,none,79,65
+male,bachelor's degree,True,completed,87,88
+female,associate's degree,False,,40,50
+male,some college,True,none,77,64
+male,associate's degree,False,none,53,40
+female,some college,True,none,32,33
+female,associate's degree,False,completed,55,79
+male,master's degree,True,none,61,66
+female,associate's degree,True,,53,70
+male,some high school,False,,73,62
+female,some college,False,completed,74,79
+female,some college,False,none,63,74
+male,bachelor's degree,False,completed,96,92
+female,some college,True,,63,80
+male,bachelor's degree,True,,48,46
+male,associate's degree,False,none,48,45
+female,bachelor's degree,True,completed,92,100
+female,master's degree,,completed,61,78
+male,high school,True,none,63,47
+male,bachelor's degree,,none,68,67
+male,some college,False,,71,70
+male,bachelor's degree,False,none,91,92
+female,some college,False,none,53,56
+female,high school,True,completed,50,64
+female,high school,False,none,74,71
+male,associate's degree,True,completed,40,53
+male,some college,False,,61,52
+female,high school,False,none,81,89
+female,some college,True,completed,48,58
+female,master's degree,False,none,53,68
+female,some high school,False,none,81,96
+female,some high school,False,none,77,80
+female,bachelor's degree,True,none,63,78
+female,associate's degree,False,completed,73,80
+female,some college,False,,69,77
+female,associate's degree,False,none,65,76
+female,high school,False,none,55,73
+female,bachelor's degree,True,none,44,62
+female,some college,False,none,54,65
+female,some high school,False,none,48,65
+male,some college,True,,58,54
+male,some high school,False,none,71,50
+male,bachelor's degree,False,,68,64
+female,high school,,,74,73
+female,bachelor's degree,False,,92,99
+female,bachelor's degree,,completed,56,72
+male,high school,True,,30,15
+male,some high school,False,none,53,48
+female,high school,False,none,69,73
+female,some high school,False,,65,81
+female,master's degree,False,none,54,63
+female,high school,False,none,29,30
+female,some college,False,none,76,80
+male,high school,True,none,60,51
+male,master's degree,True,completed,84,90
+male,some high school,False,none,75,62
+female,associate's degree,False,none,85,82
+female,master's degree,True,none,40,54
+female,some college,False,none,61,62
+female,associate's degree,False,none,58,65
+male,some college,True,,69,63
+female,some college,False,,58,66
+male,bachelor's degree,False,completed,94,91
+female,associate's degree,False,none,65,74
+female,associate's degree,,none,82,93
+female,high school,False,none,60,72
+female,bachelor's degree,False,,37,38
+male,bachelor's degree,False,,88,83
+male,master's degree,False,none,95,84
+male,associate's degree,,,65,68
+female,high school,True,none,35,54
+male,bachelor's degree,True,none,62,56
+male,high school,True,completed,58,52
+male,some college,False,completed,100,86
+female,bachelor's degree,True,,61,62
+male,some college,False,completed,100,99
+male,associate's degree,True,completed,69,63
+male,associate's degree,False,,61,46
+male,some college,True,none,49,46
+female,some high school,False,completed,44,55
+male,some college,False,none,67,70
+male,high school,False,none,79,65
+female,bachelor's degree,False,,66,81
+female,high school,False,,75,85
+male,some high school,False,,84,80
+male,high school,False,,71,64
+female,high school,,completed,67,81
+female,some high school,False,,80,88
+male,some college,False,none,86,74
+female,associate's degree,False,none,76,73
+male,high school,False,none,41,51
+female,associate's degree,,completed,74,90
+female,some high school,True,none,72,79
+female,high school,False,completed,74,80
+male,high school,False,none,70,60
+female,bachelor's degree,False,completed,65,81
+female,associate's degree,,,59,65
+female,high school,True,none,64,68
+female,high school,False,none,50,55
+female,some college,False,completed,69,81
+male,some high school,True,,51,53
+female,high school,False,completed,68,76
+female,some college,False,completed,85,98
+female,associate's degree,False,completed,65,74
+female,some high school,False,none,73,79
+female,some college,False,none,62,67
+male,associate's degree,True,none,77,64
+male,some high school,False,none,69,61
+female,associate's degree,True,none,43,58
+male,associate's degree,False,,90,85
+male,some college,True,none,74,73
+male,some high school,False,none,73,63
+female,some college,True,none,55,69
+female,high school,False,,65,67
+male,associate's degree,False,none,80,63
+female,some high school,True,completed,50,60
+female,some college,True,completed,63,71
+female,bachelor's degree,True,none,77,87
+male,some college,False,none,73,61
+male,associate's degree,False,completed,81,77
+female,high school,,none,66,68
+male,associate's degree,True,none,52,50
+female,some college,False,none,69,76
+female,associate's degree,False,,65,84
+female,high school,False,completed,69,78
+female,some college,False,completed,50,66
+female,some college,False,,73,76
+female,some high school,False,,70,76
+male,associate's degree,True,none,81,78
+male,some college,,none,63,60
+female,high school,False,none,67,74
+male,high school,False,none,60,60
+male,high school,False,none,62,54
+female,some high school,True,,29,44
+male,some college,,completed,62,68
+female,master's degree,,completed,94,100
+male,some college,False,completed,85,68
+male,associate's degree,True,,77,73
+male,high school,True,none,53,44
+male,some college,True,none,93,83
+female,associate's degree,False,none,49,53
+female,associate's degree,True,none,73,78
+female,bachelor's degree,True,completed,66,81
+female,associate's degree,False,none,77,73
+female,some high school,,none,49,56
+female,some college,True,none,79,86
+female,associate's degree,False,,75,90
+female,bachelor's degree,False,none,59,70
+female,associate's degree,False,completed,57,79
+male,high school,True,,66,59
+female,bachelor's degree,,,79,82
+female,some high school,False,none,57,72
+male,bachelor's degree,False,completed,87,87
+female,some college,False,none,63,67
+female,some high school,,completed,59,64
+male,bachelor's degree,True,none,62,65
+male,high school,False,none,46,36
+male,some college,False,none,66,52
+male,high school,False,,89,79
+female,associate's degree,True,completed,42,58
+male,some college,False,,93,90
+female,some high school,False,completed,80,85
+female,some college,False,none,98,99
+male,master's degree,,none,81,84
+female,some high school,False,completed,60,74
+female,associate's degree,True,completed,76,87
+male,associate's degree,False,completed,73,72
+female,associate's degree,False,completed,96,99
+female,high school,False,none,76,74
+male,associate's degree,True,completed,91,80
+female,some college,True,none,62,70
+male,some high school,True,completed,55,59
+female,some high school,True,completed,74,88
+male,high school,,none,50,42
+male,some college,,none,47,41
+male,some college,False,completed,81,71
+female,associate's degree,False,,65,77
+male,some high school,False,completed,68,57
+female,high school,True,none,73,84
+male,some college,False,none,53,37
+female,associate's degree,True,completed,68,80
+male,some high school,True,none,55,43
+female,some college,,completed,87,94
+male,some high school,False,none,55,44
+female,some college,True,none,53,57
+male,master's degree,False,none,67,59
+male,associate's degree,False,none,92,84
+female,some college,True,,53,73
+male,associate's degree,False,none,81,73
+male,high school,True,none,61,55
+male,bachelor's degree,False,none,80,72
+female,associate's degree,True,none,37,56
+female,high school,False,none,81,82
+female,associate's degree,False,completed,59,72
+male,some college,,none,55,47
+male,associate's degree,False,none,72,74
+male,high school,False,none,69,71
+male,some college,False,none,69,68
+female,bachelor's degree,True,none,50,59
+male,some college,False,completed,87,86
+male,some high school,False,completed,71,68
+male,some college,False,none,68,65
+male,master's degree,True,completed,79,75
+female,some high school,False,completed,77,85
+male,associate's degree,True,none,58,53
+female,associate's degree,False,none,84,92
+male,some college,False,none,55,52
+male,bachelor's degree,True,completed,70,72
+female,some college,,,52,65
+male,some college,False,completed,69,77
+female,high school,True,none,53,64
+female,some high school,False,none,48,54
+male,some high school,,completed,78,86
+female,high school,False,none,62,63
+male,some college,False,none,60,59
+female,high school,False,none,74,72
+female,high school,False,completed,58,77
+male,high school,False,completed,76,60
+female,some high school,False,,68,75
+male,some college,True,,58,57
+male,high school,False,none,52,49
+male,bachelor's degree,False,none,75,74
+female,some high school,,completed,52,72
+female,bachelor's degree,True,none,62,79
+male,some college,False,,66,60
+female,some high school,True,none,49,55
+female,high school,False,,66,70
+female,some college,True,,35,43
+female,some college,False,completed,72,82
+male,associate's degree,False,completed,94,82
+female,associate's degree,True,none,46,57
+female,master's degree,False,none,77,84
+female,high school,True,completed,76,82
+female,associate's degree,False,completed,52,62
+male,bachelor's degree,False,completed,91,79
+female,some high school,False,completed,32,44
+female,some high school,,none,72,77
+female,some college,False,none,19,32
+male,associate's degree,True,,68,61
+female,master's degree,True,none,52,61
+female,high school,False,,48,60
+female,some college,True,none,60,70
+male,high school,True,none,66,69
+male,some high school,False,,89,77
+female,high school,False,,42,51
+female,associate's degree,,completed,57,73
+male,high school,False,none,70,70
+female,associate's degree,True,none,70,81
+male,some college,False,none,69,54
+female,associate's degree,False,none,52,57
+male,some high school,False,,67,68
+male,some high school,False,completed,76,73
+female,associate's degree,False,none,87,95
+female,some college,False,none,82,87
+female,some college,False,none,73,78
+male,some college,True,none,75,74
+female,some college,True,none,64,75
+female,high school,True,none,41,40
+male,high school,False,none,90,69
+male,bachelor's degree,,none,59,51
+male,some high school,False,none,51,36
+male,high school,True,none,45,49
+female,master's degree,False,completed,54,67
+male,some high school,False,,87,76
+female,high school,,none,72,83
+male,some high school,False,completed,94,87
+female,bachelor's degree,False,,45,64
+male,bachelor's degree,True,completed,61,76
+female,high school,True,none,60,68
+female,some high school,False,none,77,88
+female,some high school,False,,85,92
+female,bachelor's degree,True,,78,93
+male,some college,True,completed,49,51
+female,high school,True,none,71,82
+female,some high school,True,,48,52
+male,high school,False,,62,58
+female,associate's degree,True,completed,56,70
+female,some high school,False,none,65,76
+female,some high school,True,completed,69,81
+male,some high school,False,none,68,53
+female,some college,True,none,61,57
+female,bachelor's degree,True,completed,74,89
+male,bachelor's degree,False,none,64,58
+female,high school,False,,77,89
+male,some college,False,,58,45
+female,high school,False,completed,60,74
+male,high school,False,none,73,57
+female,high school,False,completed,75,79
+male,associate's degree,True,completed,58,53
+female,associate's degree,False,none,66,73
+female,high school,True,none,39,46
+male,some high school,False,none,64,51
+female,high school,True,completed,23,36
+male,some college,True,completed,74,76
+female,some high school,True,,40,64
+male,master's degree,False,none,90,84
+male,master's degree,False,completed,91,85
+male,high school,False,none,64,50
+female,high school,False,none,59,68
+male,associate's degree,False,none,80,69
+male,master's degree,False,none,71,67
+female,high school,False,none,61,63
+female,some college,False,none,87,93
+male,some high school,False,none,82,61
+male,some high school,,,62,55
+female,bachelor's degree,False,none,97,96
+male,some college,True,none,75,65
+female,bachelor's degree,,none,65,81
+male,high school,False,completed,52,46
+male,associate's degree,True,none,87,72
+female,associate's degree,False,,53,53
+female,master's degree,True,none,81,87
+male,bachelor's degree,True,,39,38
+female,some college,False,completed,71,80
+male,associate's degree,False,,97,91
+male,some college,False,completed,82,88
+male,high school,True,,59,52
+male,associate's degree,False,,61,41
+male,associate's degree,True,completed,78,72
+male,associate's degree,True,none,49,51
+male,high school,False,none,59,47
+female,some college,False,,70,76
+male,associate's degree,False,completed,82,78
+male,associate's degree,,none,90,82
+female,bachelor's degree,True,none,43,61
+male,some college,,none,80,66
+male,some college,,none,81,84
+male,some high school,False,none,57,54
+female,some high school,False,,59,80
+female,associate's degree,False,none,64,74
+male,bachelor's degree,,completed,63,66
+female,bachelor's degree,False,completed,71,70
+female,high school,True,none,64,71
+male,bachelor's degree,True,none,55,44
+female,associate's degree,False,none,51,54
+female,associate's degree,False,completed,62,80
+female,associate's degree,False,,93,95
+male,high school,True,none,54,59
+female,some college,True,none,69,74
+male,high school,True,none,44,48
+female,some college,False,completed,86,91
+female,associate's degree,False,,85,85
+female,master's degree,True,none,50,73
+male,some high school,False,completed,88,75
+female,associate's degree,False,,59,69
+female,some high school,True,none,32,38
+male,high school,True,none,36,27
+female,some high school,True,completed,63,79
+male,associate's degree,False,,67,63
+female,some high school,False,completed,65,82
+male,master's degree,False,none,85,89
+female,master's degree,False,,73,74
+female,high school,True,completed,34,41
+female,bachelor's degree,True,,93,100
+female,some high school,True,none,67,84
+male,some college,False,none,88,77
+male,high school,False,,57,51
+female,some college,False,completed,79,91
+female,bachelor's degree,True,none,67,72
+male,bachelor's degree,,completed,70,70
+male,bachelor's degree,True,none,50,48
+female,some college,False,none,69,82
+female,bachelor's degree,False,completed,52,66
+female,bachelor's degree,True,,47,66
+female,associate's degree,True,none,46,55
+female,some college,False,none,68,66
+male,bachelor's degree,False,completed,100,100
+female,high school,False,none,44,52
+female,associate's degree,False,completed,57,80
+male,some college,False,completed,91,91
+male,high school,True,none,69,67
+female,high school,True,none,35,46
+male,high school,False,none,72,66
+female,associate's degree,True,none,54,65
+male,high school,True,none,74,69
+male,some high school,,completed,74,60
+male,associate's degree,,none,64,52
+female,high school,True,completed,65,71
+male,associate's degree,True,completed,46,44
+female,some high school,True,,48,51
+male,some college,True,completed,67,70
+male,some college,True,none,62,62
+male,associate's degree,True,completed,61,73
+male,bachelor's degree,,completed,70,74
+male,associate's degree,False,completed,98,90
+male,some college,True,,70,58
+male,associate's degree,False,none,67,53
+female,high school,True,,57,57
+male,some college,,,85,85
+male,some high school,False,,77,69
+male,master's degree,True,,72,72
+female,master's degree,False,none,78,96
+male,high school,False,none,81,64
+male,some high school,True,,61,61
+female,high school,False,none,58,61
+female,associate's degree,False,none,54,58
+male,high school,False,,82,80
+female,some college,True,none,49,60
+male,some high school,,,49,52
+female,high school,True,completed,57,73
+male,high school,False,,94,71
+female,some college,False,completed,75,83
+female,some high school,True,none,74,72
+male,high school,False,completed,58,54
+female,some college,False,none,62,69
+male,associate's degree,False,none,72,62
+male,some college,False,none,84,81
+female,master's degree,False,none,92,100
+female,high school,False,none,45,59
+male,high school,False,none,75,71
+female,some college,False,none,56,64
+female,some high school,True,none,48,53
+female,associate's degree,False,none,100,100
+female,some high school,True,completed,65,75
+male,some college,False,none,72,58
+female,some college,False,none,62,72
+male,some high school,False,completed,66,64
+male,some college,False,none,63,60
+female,associate's degree,False,none,68,67
+female,bachelor's degree,False,,75,80
+female,bachelor's degree,False,none,89,100
+male,some high school,False,completed,78,69
+female,high school,True,completed,53,60
+female,some college,True,none,49,61
+female,some college,False,none,54,67
+female,some college,,completed,64,77
+male,some college,True,completed,60,60
+male,associate's degree,False,,62,58
+male,high school,False,completed,55,48
+female,associate's degree,False,none,91,94
+female,high school,True,none,8,23
+male,some high school,False,,81,78
+male,some high school,False,completed,79,86
+female,some college,False,,78,91
+female,some high school,False,none,74,82
+male,high school,False,none,57,54
+female,associate's degree,False,none,40,51
+male,some high school,False,,81,76
+female,some high school,True,none,44,45
+female,some college,True,completed,67,83
+male,high school,True,completed,86,75
+female,some high school,,completed,65,78
+female,associate's degree,True,,55,76
+female,bachelor's degree,True,none,62,74
+male,high school,False,none,63,62
+female,master's degree,False,completed,88,95
+male,high school,True,none,62,55
+female,high school,True,completed,59,65
+female,some college,False,completed,68,77
+female,some college,True,none,77,86
